@@ -1,5 +1,5 @@
 # Semantic Segmentation of Satellite Imagery
-he task is a semantic segmentation one requiring not only the prediction of of 26 different possible classes within an image but to generate masks to indicate where the classes exist within the images. Since the dataset is of images from Hurricane Harvey, the main objective would be to accurately determine segments of images that have been affected by flooding and identify the objects in the vicintiy of the flood. The project was a challenging one and a successful deployment could yield to an assistance in quicker indentification of flood zones to dispatch rescue teams.
+The task is a semantic segmentation one requiring not only the prediction of of 26 different possible classes within an image but to generate masks to indicate where the classes exist within the images. Since the dataset is of images from Hurricane Harvey, the main objective would be to accurately determine segments of images that have been affected by flooding and identify the objects in the vicintiy of the flood. The project was a challenging one and a successful deployment could yield to an assistance in quicker indentification of flood zones to dispatch rescue teams.
 
 ## Project Content
 1 - Understanding of the Class Distribution within the images
