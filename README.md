@@ -10,10 +10,10 @@ The task is a semantic segmentation one requiring not only the prediction of of 
 6. Model II - DeepLabv3+ architecture implemented from [segmentation models](https://github.com/qubvel/segmentation_models.pytorch) library
 7. Model III - PSPNet architecture implemented from the same [segmentation models](https://github.com/qubvel/segmentation_models.pytorch) library
 7. Training - models have been trained using Google Colab GPUs
-  - Loss function - CrossEntropy or Focal Loss
-  - Dynamic learning rate
-  - Adam optimizer
-  - Pre-trained encoder weights from imagenet
+            - Loss function - CrossEntropy or Focal Loss
+            - Dynamic learning rate
+            - Adam optimizer
+            - Pre-trained encoder weights from imagenet
 9. Evaluation - model performance was evaluated using multi-F1 dice score and Accuracy in Class Prediction
 10. Results - the best model, DeepLabv3+, achieved **multi-F1 Dice Score of 0.7262** on 112 test images
 
